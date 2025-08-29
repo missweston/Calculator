@@ -6,6 +6,7 @@ A basic python calculator that accepts user input and performs basic operations.
 - Prompts user to enter two numbers ( x and y)
 
 - Ask user to choose an operation:
+  
 1.) Add
 
 2.) Subtract
@@ -17,6 +18,7 @@ A basic python calculator that accepts user input and performs basic operations.
 - Perfoms the operation and displays the result. 
 
 ## How to Run
+
 1.) Have python installed 
 
 2.) Clone this repository
